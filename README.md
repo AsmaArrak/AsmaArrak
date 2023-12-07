@@ -63,14 +63,16 @@
 <summary>
  📔 GitHub Stats:
 </summary>
-<br>
-<p align="center">
-  <a href="https://github.com/AsmaArrak">
-    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=AsmaArrak&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/AsmaArrak">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaArrak&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>
+
+<div align="center">
+ 
+![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsmaArrak\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AsmaArrak&theme=midnight-purple)](https://git.io/streak-stats)
+
+</div>
+
+<br><br>
 
 </details>
 
