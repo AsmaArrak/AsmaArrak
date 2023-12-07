@@ -57,24 +57,7 @@
 </details>
 <br>
 
----
 
-<details open="">
-<summary>
- 📔 GitHub Stats:
-</summary>
-
-<div align="center">
- 
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsmaArrak\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AsmaArrak&theme=midnight-purple)](https://git.io/streak-stats)
-
-</div>
-
-<br><br>
-
-</details>
 
 ---
 
