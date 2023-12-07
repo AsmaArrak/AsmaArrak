@@ -11,7 +11,7 @@
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>
 
-<h3>Little facts about me 🧑</h3>
+<h3>Little facts about me </h3>
 
 - 🧞 I'm a Tech Enthusiast since childhood.
 - 🔭 I’m currently working on Fullstack Web Development, Native Mobile Development.
@@ -72,7 +72,7 @@
     <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaArrak&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AsmaArrak&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="AsmaArrak" /></p>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats)
 </details>
 
 ---
