@@ -63,7 +63,7 @@
 
 <h4> Connect with me🤝: <h4>
   </hr>
-  <a href="https://www.linkedin.com/in/[ratheshan-sathiyamoorthy-3aa2891b9](https://www.linkedin.com/in/asma-arrak-93958928b/)/">
+  <a href="https://www.linkedin.com/in/(https://www.linkedin.com/in/asma-arrak)/">
    <img align="left" alt=" Asma Arrak | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
  
