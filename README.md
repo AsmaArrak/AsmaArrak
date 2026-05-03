@@ -63,7 +63,7 @@
 
 <h4> Connect with me🤝: <h4>
   </hr>
-  <a href="https://www.linkedin.com/in/(https://www.linkedin.com/in/asma-arrak)/">
+  <a href="https://www.linkedin.com/in/in/asma-arrak/">
    <img align="left" alt=" Asma Arrak | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
  
