@@ -1,76 +1,40 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Asma</h1>
+<h1 align="center">Hi 👋, I'm Asma</h1>
+
 <p align="center">
-  <a href="https://github.com/AsmaArrak/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Full+Stack+Software+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/AsmaArrak/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Full+Stack+Software+Developer;AI+Enthusiast+%26+Competitive+Programmer&center=true&width=500&height=50">
+  </a>
 </p>
 
 <p align="center">
-  <em>
-    This is me <b>Asma</b>, a final year <b>Computer Science</b> Engineering Student from Tunisia.
-    An aspiring <b>Full-Stack Software Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
-  <br>
-  <b><i>"---Always Work Hard and Trust the Process---"</i></b>
+  Final year <b>Computer Science</b> student from Tunisia — building things as a
+  <b>Full-Stack Developer</b>, solving problems as a <b>Competitive Programmer</b>,
+  and exploring the frontier as an <b>AI Enthusiast</b>.
 </p>
 
-<h3>Little facts about me </h3>
-
-- 🧞 I'm a Tech Enthusiast since childhood.
-- 🔭 I’m currently working on Fullstack Web Development, Native Mobile Development.
-- 👯 I’m looking to collaborate with Fullstack Web and Mobile Developement projects.
-- 💡 Contributing to Open Source Projects is always been a goal to me.
-- ⚡ Fun fact: I love Video Games, especially TFT.
-<br>
+<p align="center">
+  <i>"Always work hard and trust the process."</i>
+</p>
 
 ---
 
-<details>
-<summary>
-  ✨ Tech stack currently using:
-</summary>
-   <br>
-<code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
-<code><a href="https://id.heroku.com/login" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku"  height="30"></a></code>
-<code><a href="https://nodejs.org/en/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
-<code><a href="https://firebase.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
-<code><a href="https://www.json.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/json/json-icon.svg"></a></code>
-<code><a href="https://colab.research.google.com/" target="_blank"><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></a></code>
-<code><a href="https://flutter.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
+## 👩‍💻 About me
 
-</details>
-<br>
-
-<details>
-<summary>
-  🌱 Looking forward to learn:
-</summary>
-   <br>
-<code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
-<code><a href="https://analytics.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg"></a></code>
-<code><a href="https://www.tensorflow.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a></code>
-<code><a href="https://azure.microsoft.com/en-us/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></a></code>
-<code><a href="https://pytorch.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a></code>
-<code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
-</details>
-<br>
-
-
+- 🧞 Tech enthusiast since childhood
+- 🔭 Currently building fullstack web & native mobile applications
+- 🤝 Open to collaborating on web and mobile projects
+- 🌍 Contributing to open source has always been a goal of mine
+- ⚡ Fun fact: I love video games — especially TFT
 
 ---
 
-<h4> Connect with me🤝: <h4>
-  </hr>
-  <a href="https://www.linkedin.com/in/asma-arrak/">
-   <img align="left" alt=" Asma Arrak | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>
- 
-   <a href="https://github.com/AsmaArrak">
-    <img align="left" alt="Asma Arrak| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-  </a>
-  <br>
-  
+## 🛠️ Tech stack
 
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=AsmaArrak&label=Profile%20views&color=0e75b6&style=flat" alt="AsmaArrak" /> </p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](http
