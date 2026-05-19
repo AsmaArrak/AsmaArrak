@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Final year <b>Computer Science</b> student from Tunisia — building things as a
+  Final year <b>Computer Science</b> student — building things as a
   <b>Full-Stack Developer</b>, solving problems as a <b>Competitive Programmer</b>,
   and exploring the frontier as an <b>AI Enthusiast</b>.
 </p>
