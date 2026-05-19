@@ -28,6 +28,14 @@
 
 ---
 
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AsmaArrak&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
 ## 🛠️ Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -49,6 +57,28 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+---
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AsmaArrak&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaArrak&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsmaArrak&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AsmaArrak/AsmaArrak/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
 ---
 
